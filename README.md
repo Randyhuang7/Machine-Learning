@@ -4,5 +4,4 @@
 ---
 
 ###Courses:
-
-	* Andrew - [Machine Lerning] (https://www.coursera.org/learn/machine-learning#)
+	* Andrew - [Machine Lerning](https://www.coursera.org/learn/machine-learning#)
