@@ -1,6 +1,6 @@
 # Machine-Learning
 
-## Learing Path and Resources
+## Learing Resources
 ---
 
 Courses:
